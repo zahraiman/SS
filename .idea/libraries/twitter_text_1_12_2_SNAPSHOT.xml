@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="twitter-text-1.12.2-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/twitter-text-1.12.2-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib/twitter-text-1.12.2-SNAPSHOT.jar!/generated-sources" />
+    </SOURCES>
+  </library>
+</component>
